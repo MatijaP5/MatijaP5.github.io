@@ -90,7 +90,7 @@
 </head>
 <body>
     <header>
-        <img id="banner" src=".Saved Pictures/2fca64c73e0b970550c84ee765533b20.JPG" alt="LEGO Banner">
+        <img id="banner" src="Saved Pictures/2fca64c73e0b970550c84ee765533b20.JPG" alt="LEGO Banner">
     </header>
 
     <nav>
@@ -118,7 +118,7 @@
         </section>
 
         <figure>
-            <img src=".mdw-amazon-legos-sale-tout-f07b9cd89d3c462fa3850b0b20c4bd2f.JPG" alt="LEGO Set">
+            <img src="mdw-amazon-legos-sale-tout-f07b9cd89d3c462fa3850b0b20c4bd2f.JPG" alt="LEGO Set">
             <figcaption>LEGO set - Gradite svoj svijet zabave i mašte.</figcaption>
         </figure>
     </main>
