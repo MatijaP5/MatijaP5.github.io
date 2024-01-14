@@ -90,7 +90,7 @@
 </head>
 <body>
     <header>
-        <img id="banner" src="C:./Users./MatPC/Pictures/Saved Pictures/2fca64c73e0b970550c84ee765533b20.JPG" alt="LEGO Banner">
+        <img id="banner" src="C:/Users/MatPC/Pictures/Saved Pictures/2fca64c73e0b970550c84ee765533b20.JPG" alt="LEGO Banner">
     </header>
 
     <nav>
@@ -118,7 +118,7 @@
         </section>
 
         <figure>
-            <img src="C:./Users/MatPC/Pictures/Saved Pictures/Lego-Holiday-Gift-Guide.webp" alt="LEGO Set">
+            <img src="C:/Users/MatPC/Pictures/Saved Pictures/Lego-Holiday-Gift-Guide.webp" alt="LEGO Set">
             <figcaption>LEGO set - Gradite svoj svijet zabave i mašte.</figcaption>
         </figure>
     </main>
