@@ -128,7 +128,7 @@
 	
 	<div class="social-icons">
             <a href="https://github.com/MatijaP5" target="_blank">
-                <img src="https://primer.style/foundations/icons/mark-github-16" alt="GitHub ikona">
+                <img src="Saved Pictures/desktop.ini" alt="GitHub ikona">
             </a>
         </div>
     </footer>
