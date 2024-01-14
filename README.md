@@ -90,7 +90,7 @@
 </head>
 <body>
     <header>
-        <img id="banner" src="C:/Users/MatPC/Pictures/Saved Pictures/2fca64c73e0b970550c84ee765533b20.JPG" alt="LEGO Banner">
+        <img id="banner" src="Saved Pictures/20230701-about-image-lego.webp" alt="LEGO Banner">
     </header>
 
     <nav>
