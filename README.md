@@ -118,7 +118,7 @@
         </section>
 
         <figure>
-            <img src="Saved Pictures/lego-friends-roller-coaster-u-zabavnom-parku-41130.jpg" alt="LEGO Set">
+            <img src="Saved Pictures/mdw-amazon-legos-sale-tout-f07b9cd89d3c462fa3850b0b20c4bd2f.jpg" alt="LEGO Set">
             <figcaption>LEGO set - Gradite svoj svijet zabave i mašte.</figcaption>
         </figure>
     </main>
