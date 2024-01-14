@@ -118,7 +118,7 @@
         </section>
 
         <figure>
-            <img src="Saved Pictures/Lego-Holiday-Gift-Guide.webp" alt="LEGO Set">
+            <img src="mdw-amazon-legos-sale-tout-f07b9cd89d3c462fa3850b0b20c4bd2f.JPG" alt="LEGO Set">
             <figcaption>LEGO set - Gradite svoj svijet zabave i mašte.</figcaption>
         </figure>
     </main>
