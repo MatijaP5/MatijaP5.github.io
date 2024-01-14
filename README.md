@@ -1,114 +1,136 @@
-# MatijaP5.github.io
 <!DOCTYPE html>
 <html lang="hr">
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="Članak s galerijom slika">
-    <meta name="author" content="Matija Paleško">
-    <title>Članak s Galerijom</title>
+    <meta name="description" content="Prodaja LEGO setova - Veliki izbor LEGO setova za sve uzraste. Pronađite savršen set za sebe ili kao poklon.">
+    <meta name="keywords" content="LEGO, prodaja, setovi, kockice, igračke">
+    <meta name="author" content="Vaše Ime">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prodaja LEGO setova</title>
 
     <style>
         body {
+            font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            font-family: Arial, sans-serif;
-            background-color: #f8f9fa;
-            color: #333;
+            box-sizing: border-box;
         }
 
         header {
-            background-color: black; 
-            color: white; 
             text-align: center;
-            padding: 20px;
+        }
+
+        #banner {
+            width: 70%;
+            height: auto;
+        }
+
+        nav {
+            background-color: #333;
+            overflow: hidden;
         }
 
         nav a {
-            color: black; 
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
             text-decoration: none;
-            font-weight: bold;
-            margin: 0 10px;
+            font-size: 18px;
+            text-transform: uppercase;
         }
 
         nav a:hover {
-            text-decoration: underline;
-        }
-
-        img {
-            max-width: 100%;
-            height: auto;
-            border-radius: 5px;
-            margin-bottom: 10px;
-        }
-
-        figcaption {
-            text-align: center;
-            font-style: italic;
+            background-color: #ddd;
+            color: black;
         }
 
         main {
-            max-width: 800px;
-            margin: 20px auto;
             padding: 20px;
-            background-color: white;
-            border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        section {
+            margin-bottom: 20px;
+        }
+
+        h2, h3 {
+            text-align: center;
+            text-transform: uppercase;
+        }
+
+        figure {
+            text-align: center;
+        }
+
+        figure img {
+            width: 100%;
+            height: auto;
+        }
+
+        figcaption {
+            margin-top: 10px;
+            font-style: italic;
+            font-size: 14px;
         }
 
         footer {
-            background-color: #f8f9fa;
-            color: #333;
+            background-color: #333;
+            color: white;
             text-align: center;
             padding: 10px;
+        }
+
+        .social-icons img {
+            width: 20px;
+            height: auto;
+            margin: 0 5px;
         }
     </style>
 </head>
 <body>
     <header>
-        <h1>LEGO SVIJET</h1>
+        <img id="banner" src="C:\Users\MatPC\Pictures\Saved Pictures\20230701-about-image-lego.webp" alt="LEGO Banner">
     </header>
+
+    <nav>
+        <a href="#">Početna stranica</a>
+        <a href="index2.html">Novosti</a>
+        <a href="index4.html">Kontakt</a>
+        <a href="index6.html">O nama</a>
+        <a href="index5.html">Galerija</a>
+    </nav>
 
     <main>
         <section>
-            <h2>Setovi za gradnju!</h2>
-            <!-- Ostatak teksta ... -->
+            <h2>Dobrodošli u svijet LEGO setova</h2>
+            <p>Naša trgovina nudi najnovije i najraznovrsnije LEGO setove. Pogledajte našu ponudu i pronađite savršeni set za gradnju i igru.</p>
         </section>
 
         <section>
-            <h3>Galerija Slika</h3>
-            <figure>
-                <img src="C:\Users\MatPC\Pictures\Saved Pictures\75372_alt1.png" alt="New Star Wars battle set 15€">
-                <figcaption>New Star Wars battle set 15€</figcaption>
-            </figure>
-
-            <figure>
-                <img src="C:\Users\MatPC\Pictures\Saved Pictures\91vG0HrgOrL._AC_UF894,1000_QL80_.jpg" alt="Minecraft Guardian Battle 20€ ">
-                <figcaption>Minecraft Guardian Battle 20€</figcaption>
-            </figure>
-
-            <figure>
-                <img src="C:\Users\MatPC\Pictures\Saved Pictures\most-expensive-lego-sets-of-all-time_0005_diagon-alley.webp" alt="New Diagon Alley 400€">
-                <figcaption>New Diagon Alley 400€</figcaption>
-            </figure>
-
-            <figure>
-                <img src="C:\Users\MatPC\Pictures\Saved Pictures\LEGO-Marvel-Spider-Man-Final-Battle-76261.jpg" alt="Spider-Man final battle 70€">
-                <figcaption>Spider-Man final battle 70€</figcaption>
-            </figure>
-
-            <figure>
-                <img src="C:\Users\MatPC\Pictures\Saved Pictures\117558-lego-peaches-castle-box-front-1200x675.avif" alt="Super Mario Peach's Castle 85€">
-                <figcaption>Super Mario Peach's Castle 85€</figcaption>
-                <p>Datum objave: 10.02.2024</p> <!-- Dodano unutar figure elementa -->
-            </figure>
+            <h3>Što čini naše LEGO setove posebnima?</h3>
+            <p>Nudimo visokokvalitetne LEGO setove prilagođene svim uzrastima. Bilo da gradite vlastiti svijet, kolekcionirate omiljene likove ili tražite savršen poklon, mi imamo nešto za svakoga.</p>
         </section>
+
+        <section>
+            <h3>Istražite našu ponudu</h3>
+            <p>Posjetite našu početnu stranicu kako biste pronašli najnovije informacije o dostupnim setovima, posebnim ponudama i budućim lansiranjima.</p>
+        </section>
+
+        <figure>
+            <img src="C:\Users\MatPC\Pictures\Saved Pictures\Lego-Holiday-Gift-Guide.webp" alt="LEGO Set">
+            <figcaption>LEGO set - Gradite svoj svijet zabave i mašte.</figcaption>
+        </figure>
     </main>
 
     <footer>
-        <nav>
-            <a href="index2.html">Natrag</a>
-        </nav>
-        <p>&copy; 2024 Članak s Galerijom | Autor: Matija Paleško</p>
+        <p>Copyright © 2024: Matija Paleško</p>
+	
+	<div class="social-icons">
+            <a href="https://github.com/MatijaP5" target="_blank">
+                <img src="https://primer.style/foundations/icons/mark-github-16" alt="GitHub ikona">
+            </a>
+        </div>
     </footer>
 </body>
 </html>
