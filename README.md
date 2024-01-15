@@ -1,6 +1,8 @@
 
 <html lang="hr">
 <head>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+		
     <meta charset="UTF-8">
     <meta name="description" content="Prodaja LEGO setova - Veliki izbor LEGO setova za sve uzraste. Pronađite savršen set za sebe ili kao poklon.">
     <meta name="keywords" content="LEGO, prodaja, setovi, kockice, igračke">
@@ -126,9 +128,9 @@
     <footer>
         <p>Copyright © 2024: Matija Paleško</p>
 	
-	<div class="social-icons">
-            <a href="https://github.com/MatijaP5" target="_blank">
-                <img src="Saved Pictures/desktop.ini" alt="GitHub ikona">
+	
+        	<a href="https://github.com/MatijaP5" target="_blank">
+        <i class="fab fa-github"></i>
             </a>
         </div>
     </footer>
