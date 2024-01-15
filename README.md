@@ -8,7 +8,7 @@
     <meta name="keywords" content="LEGO, prodaja, setovi, kockice, igračke">
     <meta name="author" content="Vaše Ime">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LEGO Prodaja</title>
+    <title>LEGO prodaja</title>
 
     <style>
         body {
