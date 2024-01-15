@@ -132,7 +132,7 @@
         	<a href="https://github.com/MatijaP5" target="_blank">
         <i class="fab fa-github"></i>
             </a>
-        </div>
+        
     </footer>
 </body>
 </html>
